@@ -50,8 +50,8 @@ week-XX/
 
 | Week | Dataset | Type | Metric | Score | Status |
 |------|---------|------|--------|-------|--------|
-| 01 | [Financial Health Prediction](https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge) | Classification | F1 | — | 🔄 In progress |
-| 02 | — | — | — | — | ⏳ Upcoming |
+| 01 | [Bank Transaction Volume Forecasting](https://zindi.africa/competitions/june-study-jam-series-transaction-volume-forecasting-challenge) | Regression / Time Series | RMSLE | — | 🔄 In progress |
+| 02 | [Financial Health Prediction](https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge) | Classification | F1 | — | ⏳ Upcoming |
 | 03 | — | — | — | — | ⏳ Upcoming |
 | 04 | — | — | — | — | ⏳ Upcoming |
 | 05 | — | — | — | — | ⏳ Upcoming |
@@ -86,5 +86,5 @@ Weeks 09–12  │  Advanced      │  NLP, time series, deep learning, deployme
 
 ## Author
 
-**Djafarou Abdou** · L1 Computer Engineering · IUA Abidjan  
+**Djafarou Abdou** — L1 Computer Engineering · IUA Abidjan  
 [GitHub](https://github.com/DjafarouAbdou909) · [Portfolio](https://cvqrcodec1.pythonanywhere.com/u/DjafarouAbdou)
